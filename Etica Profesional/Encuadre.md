@@ -7,18 +7,9 @@ profesor: Aída Velázquez Castañeda
 email: avelazquez@ceti.mx
 periodo: Febrero-Junio 2026
 ---
-
 # Ética Profesional - Encuadre
 
-## 📋 Información General
-
-**Materia:** Ingeniería en Desarrollo de Software  
-**Profesora:** Aída Velázquez Castañeda  
-**Correo:** avelazquez@ceti.mx  
-**Periodo:** Febrero - Junio 2026
-
 ## 📊 Ponderación por Parcial
-
 Cada parcial vale: **33%, 33% y 34%**
 
 ### Criterios de Evaluación (por parcial)
@@ -51,8 +42,13 @@ Cada parcial vale: **33%, 33% y 34%**
 ### Tercer Parcial
 - **Examen:** 16 de junio - 15:50 hrs
 - **Entrega Proyecto:** 16 de junio - 15:50 hrs
-
 ## 🎯 Notas Personales
 
 > [!warning] Recordatorio
 > Las actividades y proyectos se entregan el MISMO día del examen. No dejar para último momento.
+
+
+> [!info] Archivos del semestre
+> [[Etica Profesional/Parcial 1/Notas de clases|Notas de clases parcial 1]]
+> 
+

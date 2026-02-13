@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af4c41625f18715f",
+        "id": "a452fc34d100e134",
         "type": "tabs",
         "children": [
           {
-            "id": "78d923d9aef6cf64",
+            "id": "5e4cc8c98b327c49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Planeación Estratégica y Habilidades Directivas/Encuadre.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Encuadre"
             }
           }
         ]
@@ -29,7 +33,7 @@
       {
         "id": "d46aecce6a1078b0",
         "type": "tabs",
-        "dimension": 74.16020671834626,
+        "dimension": 66.49417852522639,
         "children": [
           {
             "id": "42af4f1ef891900d",
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ética-profesional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,12 +89,12 @@
         "currentTab": 3
       },
       {
-        "id": "e2eac49e070856fc",
+        "id": "50281d372708a088",
         "type": "tabs",
-        "dimension": 25.839793281653744,
+        "dimension": 33.50582147477361,
         "children": [
           {
-            "id": "b6281faff2e0bea9",
+            "id": "23d959a2fa6161ff",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -112,7 +116,7 @@
       {
         "id": "2fd9a64f0deb3159",
         "type": "tabs",
-        "dimension": 56.98529411764706,
+        "dimension": 56.98529411764705,
         "children": [
           {
             "id": "53f920f8060070a2",
@@ -120,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iPad MINI and FF Dec 2025.md",
+                "file": "Planeación Estratégica y Habilidades Directivas/Encuadre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for iPad MINI and FF Dec 2025"
+              "title": "Backlinks for Encuadre"
             }
           },
           {
@@ -139,11 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Planeación Estratégica y Habilidades Directivas/Encuadre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Encuadre"
             }
           },
           {
@@ -167,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Planeación Estratégica y Habilidades Directivas/Encuadre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Encuadre"
             }
           },
           {
@@ -205,7 +211,7 @@
       {
         "id": "2a5073634fabf08a",
         "type": "tabs",
-        "dimension": 43.01470588235294,
+        "dimension": 43.01470588235295,
         "children": [
           {
             "id": "0c7f632e897519ae",
@@ -228,8 +234,8 @@
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -243,22 +249,35 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "78d923d9aef6cf64",
+  "active": "4899fff496010670",
   "lastOpenFiles": [
+    "Planeación Estratégica y Habilidades Directivas/~WRL0004.tmp",
+    "Planeación Estratégica y Habilidades Directivas/~WRD0002.tmp",
+    "Planeación Estratégica y Habilidades Directivas/Manual de Trabajo.pdf",
+    "Planeación Estratégica y Habilidades Directivas/Parcial 1/Notas de clases.md",
+    "Planeación Estratégica y Habilidades Directivas/~$rtafolio.docx",
+    "Planeación Estratégica y Habilidades Directivas/Encuadre.md",
     "Tecnologias Emergentes/Encuadre.md",
-    "Tecnologias Emergentes/Untitled.md",
+    "Tecnologias Emergentes/Parcial 1/Notas de clases.md",
+    "Aseguramiento de la Calidad del Software/Parcial 1/Notas de clases.md",
+    "Planeación Estratégica y Habilidades Directivas/~WRL0005.tmp",
+    "Planeación Estratégica y Habilidades Directivas/~WRD0004.tmp",
+    "Aseguramiento de la Calidad del Software/Software-design-decoded-66-ways-experts-think.pdf",
+    "Aseguramiento de la Calidad del Software/Encuadre.md",
+    "Inglés/Encuadre.md",
     "Etica Profesional/Encuadre.md",
-    "Tecnologias Emergentes",
-    "Etica Profesional/Parcial 1",
-    "Inglés",
-    "Etica Profesional",
-    "100-days-of-code/Day 3/Python Pizza/tests/__pycache__",
-    "100-days-of-code/Day 9/Nested Lists and Dictionaries/task.py",
+    "Deep Learning/Encuadre.md",
+    "Proyecto II",
+    "Deep Learning/Parcial 1/Notas de clases.md",
+    "Deep Learning/Parcial 1",
+    "Deep Learning/Untitled.md",
+    "Deep Learning",
+    "Etica Profesional/Parcial 1/Notas de clases.md",
+    "Inglés/Parcial 1/Notas de clases.md",
+    "Inglés/Parcial 1",
+    "Planeación Estratégica y Habilidades Directivas/Encuadre OLD.md",
+    "Tecnologias Emergentes/Untitled.md",
     "100-days-of-code/Day 9/Nested Lists and Dictionaries/task.md",
-    "100-days-of-code/Day 9/Nested Lists and Dictionaries/task-remote-info.yaml",
-    "100-days-of-code/Day 9/Nested Lists and Dictionaries/task-info.yaml",
-    "100-days-of-code/Day 9/Nested Lists and Dictionaries/solution.py",
-    "100-days-of-code/Day 9/Dictionaries/task.py",
     "100-days-of-code/Day 9/Dictionaries/task.md",
     "100-days-of-code/Day 9/Blind Auction Project/task.md",
     "100-days-of-code/Day 8/Positional vs Keyword Arguments/task.md",
@@ -268,19 +287,6 @@
     "100-days-of-code/Day 8/Caesar Cipher 1/task.md",
     "100-days-of-code/Day 4/Rock Paper Scissors/task.md",
     "100-days-of-code/Day 4/Random Module/task.md",
-    "100-days-of-code/Day 4/Lists/task.md",
-    "100-days-of-code/Day 4/IndexError/task.md",
-    "100-days-of-code/Day 4/Banker Roulette/task.md",
-    "100-days-of-code/Day 7/Step 5/task.md",
-    "100-days-of-code/Day 7/Step 4/task.md",
-    "100-days-of-code/Day 7/Step 3/task.md",
-    "100-days-of-code/Day 7/Step 2/task.md",
-    "100-days-of-code/Day 7/Step 1/task.md",
-    "100-days-of-code/Day 5/Password Generator Project/task.md",
-    "100-days-of-code/Day 6/Functions/task.md",
-    "100-days-of-code/Day 5/Highest Score/task.md",
-    "100-days-of-code/Day 5/For Loops with Range/task.md",
-    "100-days-of-code/Day 5/For Loops/task.md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",

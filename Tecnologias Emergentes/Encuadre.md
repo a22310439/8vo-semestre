@@ -7,11 +7,9 @@ profesor: José Francisco Pérez Reyes
 email: jfperez@ceti.mx
 periodo: Febrero-Junio 2026
 ---
-
 # Tecnologías Emergentes - Encuadre
 
 ## 📊 Ponderación por Parcial
-
 Cada parcial vale: **33%, 33% y 34%**
 
 ### Criterios de Evaluación (por parcial)
@@ -63,3 +61,7 @@ Cada parcial vale: **33%, 33% y 34%**
 
 > [!warning] Recordatorio
 > Las prácticas se entregan una semana antes de la semana de evaluaciones y el exámen junto con el proyecto se entregan en la semana de evaluaciones a la hora de clase.
+
+> [!info] Archivos del semestre
+> [[Tecnologias Emergentes/Parcial 1/Notas de clases|Notas de clases parcial 1]]
+
